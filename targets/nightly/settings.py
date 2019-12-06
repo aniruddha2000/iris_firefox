@@ -40,7 +40,7 @@ class FirefoxSettings:
         # Don't open a dialog to show available add-on updates
         "extensions.update.notifyUser": False,
         # Enable test mode to run multiple tests in parallel
-        "focusmanager.testmode": True,
+        #"focusmanager.testmode": True,
         # Enable test mode to not raise an OS level dialog for location sharing
         "geo.provider.testing": True,
         # Suppress delay for main action in popup notifications
